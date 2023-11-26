@@ -1,1 +1,1 @@
-# Educational-Flutter-Application
+# InstagramClone-Flutter-Application
